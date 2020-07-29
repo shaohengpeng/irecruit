@@ -1,0 +1,18 @@
+.recruitmainstyle{
+    width: 80%;
+    height: 800px;
+    margin: 20px auto;
+}
+.recruitinfoshow{
+    height: 380px;
+    margin-top: 50px;
+}
+.recruitinfoshow li{
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    list-style: none;
+}
+.page{
+    margin-top: 0px;
+}
